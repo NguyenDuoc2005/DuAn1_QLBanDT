@@ -1,0 +1,37 @@
+*Thêm Nhân Viên 
+Họ Và Tên : Trần Anh Tuấn , 
+Email: tuankid1106@gmail.com  , duocnhph50257@gmail.com
+SDT : 0973790107
+Mã Nhân Viên : NV006
+Tài Khoản : taikhoan6
+Mật Khẩu : Tuan2005@
+Xác nhận mật khẩu : Tuan2005@
+Địa Chỉ : 567 Đường Cầu Diễn
+
+*Thêm Khách Hàng
+Mã Khách Hàng : KH006 , KH007
+Tên Khách Hàng : Lại Quang Hiệp , Nguyễn Khánh Huyền, Kim Lam Chi
+SDT : 0339405689 , 0987465200
+Email: hiep@gmail.com or huyennk6@gmail.com , chi@gmail.com
+Địa Chỉ : 12 Hà Nội
+
+
+*Thêm Giảm Giá
+Tên Chương Trinh : Giảm Giá Mùa Thi
+Mã Giảm Giá : GG0012
+Mức Giảm Giá : 30
+Giảm Tối Thiểu : 2000000
+Giá Tối Thiểu : 10000000
+
+*Thêm Sản Phẩm 
+Tên SP : iPhone 15 pro max
+Giá Nhập :23000000 or 25000000 
+Giá Bán :26000000 or 28000000
+Mô Tả : iPhone to,mượt
+
+
+
+
+
+
+
